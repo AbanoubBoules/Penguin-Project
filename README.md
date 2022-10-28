@@ -1,9 +1,4 @@
 # Penguin-project
-<style>
- body{
-  background-color:black;
-  }
-</style>
 <h1>Screen shot</h1>
 <img src="Screenshot (3457).png">
 </br>
