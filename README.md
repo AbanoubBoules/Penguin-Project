@@ -1,5 +1,13 @@
 # Penguin-project
 <h1>Screen shot</h1>
-<img src="Screenshot (485).png">
+<img src="Screenshot (3457).png">
 </br>
-<img src="Screenshot (486).png">
+<img src="Screenshot (3458).png">
+</br>
+<img src="Screenshot (3459).png">
+</br>
+<img src="Screenshot (3460).png">
+</br>
+<img src="Screenshot (3466).png">
+</br>
+<img src="Screenshot (3467).png">
